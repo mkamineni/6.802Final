@@ -1,0 +1,3 @@
+Number of patients with Crohn's disease is 218 
+Number of patients with ulcerative colitis is 62 
+Number of patients with neither disease is 42 
