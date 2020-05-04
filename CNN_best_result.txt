@@ -1,0 +1,1 @@
+Best Model Dropout Rate: 0.500000Best Model Learning Rate: 0.001000Best Model Loss: 1.686797Best Model Dropout Rate: 0.200000Best Model Learning Rate: 0.001000Best Model Loss: 0.718053
